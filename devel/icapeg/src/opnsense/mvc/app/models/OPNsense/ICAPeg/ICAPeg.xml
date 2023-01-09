@@ -51,8 +51,8 @@
                 <Required>Y</Required>
                     <OptionValues>
                         <TEXT>txt</TEXT>
-                        <EXECUTABLE>exe</EXECUTABLE>
-                        <MSOFFICE>docx</MSOFFICE>
+                       <!--  <EXECUTABLE>exe</EXECUTABLE>
+                        <MSOFFICE>docx</MSOFFICE> -->
                     </OptionValues>
             </echo_process_extensions>
             <echo_reject_extensions type="OptionField">
