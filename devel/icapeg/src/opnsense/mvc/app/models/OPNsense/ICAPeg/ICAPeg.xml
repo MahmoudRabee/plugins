@@ -50,9 +50,9 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
-                        <EXECUTABLE>Executables</EXECUTABLE>
-                        <MSOFFICE>Microsoft office files</MSOFFICE>
+                        <TEXT>txt</TEXT>
+                        <EXECUTABLE>exe</EXECUTABLE>
+                        <MSOFFICE>docx</MSOFFICE>
                     </OptionValues>
             </echo_process_extensions>
             <echo_reject_extensions type="OptionField">
@@ -60,7 +60,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -70,7 +70,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -119,7 +119,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -129,7 +129,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -139,7 +139,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -193,7 +193,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -203,7 +203,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         
                         <MSOFFICE>Microsoft office files</MSOFFICE>
@@ -214,7 +214,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -276,7 +276,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -286,7 +286,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -296,7 +296,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -364,7 +364,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -374,7 +374,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
@@ -384,7 +384,7 @@
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>Text files</TEXT>
+                        <TEXT>txt</TEXT>
                         <EXECUTABLE>Executables</EXECUTABLE>
                         <MSOFFICE>Microsoft office files</MSOFFICE>
                     </OptionValues>
