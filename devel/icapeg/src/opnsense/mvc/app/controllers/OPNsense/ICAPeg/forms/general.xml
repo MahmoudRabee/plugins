@@ -51,13 +51,13 @@
         <help>Enable this feature if you want to apply ICAPeg in Response mode </help>
     </field>
     <!-- ##################### -->
-    <field>
+    <!-- <field>
         <id>icapeg.general.echo_process_extensions </id>
         <label>echo_process_extensions</label>
         <type>select_multiple</type>
         <help> Choose for which Options. Everything except the ones in bypass, 
                 unknown = system couldn't find out the type of the file</help>
-    </field>
+    </field> -->
     <field>
         <id>icapeg.general.echo_reject_extensions </id>
         <label>echo_reject_extensions</label>
