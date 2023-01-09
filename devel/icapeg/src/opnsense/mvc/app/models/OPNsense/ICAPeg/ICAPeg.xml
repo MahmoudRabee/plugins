@@ -46,11 +46,11 @@
                 <Required>Y</Required>
             </echo_resp_mode>
             <echo_process_extensions type="OptionField">
-                <default>txt,pdf,exe,zip,docx,doc</default>
+                <default>"txt",pdf,exe,zip,docx,doc</default>
                 <multiple>Y</multiple>
                 <Required>Y</Required>
                     <OptionValues>
-                        <TEXT>txt</TEXT>
+                        <TEXT>"txt"</TEXT>
                        <!--  <EXECUTABLE>exe</EXECUTABLE>
                         <MSOFFICE>docx</MSOFFICE> -->
                     </OptionValues>
